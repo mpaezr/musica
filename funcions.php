@@ -1,0 +1,3 @@
+<?php
+//Arxiu de funcions
+?>

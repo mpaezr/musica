@@ -1,0 +1,15 @@
+main{
+	margin-top:60px;
+	margin-bottom:20px;
+}
+.editform{
+	position: fixed;
+    width: 300px;
+    height: 350px;
+    top: 100px;
+    left: 20px;
+    background-color: #ffffff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
